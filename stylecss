@@ -1,0 +1,11 @@
+*{
+  /* 구글폰트 css */
+  font-family: 'Noto Sans KR', sans-serif;
+  /* 기본속성 제거 */
+  list-style: none;
+  text-decoration: none;
+  border-collapse: collapse;
+  margin: 0px;
+  padding: 0px;
+  color: #000;
+}
