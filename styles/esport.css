@@ -1,0 +1,23 @@
+section.center {
+  background-color: aliceblue;
+  align-items: center;
+  margin: 30px;
+  height: 800px;
+}
+.center_news {
+  width: 1400px;
+  height: 700px;
+  margin: auto;
+  float: center;
+}
+
+#news_name {
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: large;
+  font-weight: 1000;
+}
+.news_box {
+  margin: 50px;
+  display: flex;
+}
